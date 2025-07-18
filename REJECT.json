@@ -1,0 +1,41 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "type": "logical",
+      "mode": "and",
+      "rules": [
+        {
+          "process_name": "MuMuVMMHeadless.exe"
+        },
+        {
+          "domain_keyword": "store-api.mumu.163"
+        }
+      ]
+    },
+    {
+      "type": "logical",
+      "mode": "and",
+      "rules": [
+        {
+          "process_name": "MuMuPlayer.exe"
+        },
+        {
+          "domain_keyword": "mumu.nie.netease.com"
+        }
+      ]
+    },
+    {
+      "type": "logical",
+      "mode": "and",
+      "rules": [
+        {
+          "process_name": "HD-Player.exe"
+        },
+        {
+          "domain_keyword": "bluestacks"
+        }
+      ]
+    }
+  ]
+}
