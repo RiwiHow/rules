@@ -2,7 +2,13 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": ["edgesrv.com", "hycdn.cn", "hypergryph.com"]
+      "domain_suffix": [
+        "edgesrv.com",
+        "hycdn.cn",
+        "hypergryph.com",
+        "lizhi.shop",
+        "beingfine.cn"
+      ]
     }
   ]
 }
