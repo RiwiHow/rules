@@ -2,25 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        "edgesrv.com",
-        "hycdn.cn",
-        "hypergryph.com",
-        "lizhi.shop",
-        "beingfine.cn",
-        "xiaoheihe.cn"
-      ],
-      "domain_keyword": [
-        "yiban",
-        "cl2009",
-        "rong-edge",
-        "campushoy",
-        "huaweicloud",
-        "campusphere",
-        "pwesports",
-        "wmpvp",
-        "5eplay"
-      ]
+      "domain_suffix": ["yooc.me"]
     }
   ]
 }
