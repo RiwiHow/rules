@@ -2,7 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": ["yooc.me"]
+      "domain_suffix": ["yooc.me", "puwise.com"]
     }
   ]
 }
