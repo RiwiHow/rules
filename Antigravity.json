@@ -2,7 +2,34 @@
   "version": 2,
   "rules": [
     {
-      "domain_keyword": ["antigravity", "cloudcode-pa"]
+      "domain": [
+        "ai.google.dev",
+        "jules.google.com",
+        "antigravity.google",
+        "aida.googleapis.com",
+        "antigravity-unleash.goog",
+        "aisandbox-pa.googleapis.com",
+        "robinfrontend-pa.googleapis.com",
+        "alkalicore-pa.clients6.google.com",
+        "daily-cloudcode-pa.googleapis.com"
+      ],
+      "domain_suffix": [
+        "deepmind.com",
+        "gemini.google",
+        "bard.google.com",
+        "deepmind.google",
+        "gemini.google.com",
+        "notebooklm.google",
+        "aistudio.google.com",
+        "generativeai.google",
+        "makersuite.google.com",
+        "notebooklm.google.com",
+        "geller-pa.googleapis.com",
+        "cloudcode-pa.googleapis.com",
+        "generativelanguage.googleapis.com",
+        "proactivebackend-pa.googleapis.com"
+      ],
+      "domain_keyword": ["alkalimakersuite-pa.clients6.google.com"]
     }
   ]
 }
