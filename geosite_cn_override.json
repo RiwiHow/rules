@@ -1,0 +1,8 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "domain_keyword": ["googleapis.com", "gstatic.com"]
+    }
+  ]
+}
