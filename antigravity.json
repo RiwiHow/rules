@@ -12,7 +12,8 @@
         "robinfrontend-pa.googleapis.com",
         "alkalicore-pa.clients6.google.com",
         "daily-cloudcode-pa.googleapis.com",
-        "geminiweb-pa.clients6.google.com"
+        "geminiweb-pa.clients6.google.com",
+        "gemini.gstatic.com"
       ],
       "domain_suffix": [
         "deepmind.com",
