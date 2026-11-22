@@ -1,0 +1,24 @@
+{
+  "version": 5,
+  "rules": [
+    {
+      "process_name": [
+        "PummelParty.exe",
+        "Jantama_MahjongSoul.exe",
+        "ItTakesTwo.exe",
+        "PartyAnimals.exe",
+        "cs2.exe",
+        "UltimateChickenHorse.exe",
+        "Draw&Guess.exe",
+        "SlayTheSpire2.exe",
+        "BrownDust II.exe"
+      ]
+    },
+    {
+      "package_name": ["com.neowizgames.game.browndust2"]
+    },
+    {
+      "domain_keyword": ["maj-soul"]
+    }
+  ]
+}
